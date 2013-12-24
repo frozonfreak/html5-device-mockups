@@ -109,3 +109,7 @@ Created by:
 Credits for the original graphical renderings of the devices
 used in this package are found in a separate file which is
 provided with this package.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/frozonfreak/html5-device-mockups/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
